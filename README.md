@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🔭 I’m currently working on SQLi stuff
 - 🌱 I’m currently learning Cyber Security Projects
